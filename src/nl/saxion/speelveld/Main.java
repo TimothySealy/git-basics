@@ -10,6 +10,6 @@ public class Main {
             System.out.println("hello from shadow");
             System.out.println("Beste vak EVER");
         }
-    
+        System.out.println("Commit vanuit IntelliJ");
     }
 }
