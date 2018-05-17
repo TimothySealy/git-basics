@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Joris was here");
 
         System.out.println("Some changes");
+
         for (int i = 0; i <15 ; i++) {
             System.out.println("hello from shadow");
             System.out.println("Beste vak EVER");
