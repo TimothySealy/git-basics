@@ -3,7 +3,12 @@ package nl.saxion.speelveld;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("Hello World!");
+
+        System.out.println("Wooooo hallo");
+
         System.out.println("Timothy was hier");
+
         System.out.println("Joris was here");
 
         System.out.println("Some changes");
@@ -11,6 +16,6 @@ public class Main {
             System.out.println("hello from shadow");
             System.out.println("Beste vak EVER");
         }
-    
+        System.out.println("Commit vanuit IntelliJ");
     }
 }
